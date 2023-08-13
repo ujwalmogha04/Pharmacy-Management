@@ -75,7 +75,7 @@
 
 ### Give this a ✨ if you like it 😊
 ## Author
-### Payal Patra
+### Ujwal Mogha
 #### Let's Connect 🚀
 
 <a href="https://linkedin.com/in/payalpatra105" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="payalpatra105" height="30" width="40" /></a>
