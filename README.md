@@ -5,7 +5,7 @@
 #### STEP 1
 
  ```sh
-   git clone https://github.com/payalpatra/Pharmacy-Management-Application.git
+   https://github.com/ujwalmogha04/Pharmacy-Management
    ```
 
 #### STEP 2
